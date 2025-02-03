@@ -1,0 +1,3 @@
+# Persephone
+
+Personalized desktop garden
